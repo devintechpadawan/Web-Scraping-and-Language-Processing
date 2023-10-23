@@ -1,5 +1,5 @@
 '''
-Final
+
 Web Scraping Language Processer
 by Devin Taylor
 Spring 2023
