@@ -1,5 +1,5 @@
 <h2>Description</h2>
-Project consists of a Python script that scrapes a target web page and does NLP (natural language processing) to gather specific data such as words used, their parts of speech and usage frequency. It uses regexs to find zip codes and phone numbers. It also downloads images on the page to the desktop. It does this for every page under the domain and indicates which url it processed information for. All discovered URLs are listed at the bottom of the output. Parts of speech abbreviations found in lines 30-65. <br />
+Project consists of a Python script that scrapes a target web page and does NLP (natural language processing) to gather words used, their parts of speech and usage frequency then puts them in a PrettyTable. It uses regexs to find zip codes and phone numbers. It also downloads images on the page to the desktop. It does this for every page under the domain and indicates which url it processed information for. All discovered URLs are listed at the bottom of the output. Parts of speech abbreviations found in lines 30-65. <br />
 
 
 <h2>Language Used</h2>
